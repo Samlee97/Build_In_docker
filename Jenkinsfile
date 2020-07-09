@@ -1,4 +1,4 @@
-@Library('gitcheckout-library@master') _
+@Library('Demo-Shared-lib') _
 
 pipeline {
 
